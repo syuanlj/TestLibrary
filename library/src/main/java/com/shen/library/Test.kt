@@ -1,4 +1,4 @@
-package com.shen.mylibrary
+package com.shen.library
 
 import android.util.Log
 import androidx.core.os.BuildCompat
